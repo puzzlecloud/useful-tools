@@ -1,4 +1,4 @@
-快速输入信息，把信息转换为havard reference 格式
+输入信息，把信息转换为havard reference 格式
 
 安装pip install python-docx
 
